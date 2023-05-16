@@ -1,1 +1,7 @@
 *.xlsx
+
+# Python envs
+venv/
+env/
+
+.DS_Store
